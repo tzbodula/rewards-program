@@ -1,0 +1,156 @@
+[
+	{
+		"customer_name": "Amity O'connor",
+		"customer_email": "lorem.auctor@aol.org",
+		"janurary_spend": "$120",
+		"feburary_spend": "$16",
+		"march_spend": "$284"
+	},
+	{
+		"customer_name": "Olympia Macias",
+		"customer_email": "in@google.net",
+		"janurary_spend": "$14",
+		"feburary_spend": "$288",
+		"march_spend": "$272"
+	},
+	{
+		"customer_name": "Cheryl Mills",
+		"customer_email": "varius.ultrices@google.net",
+		"janurary_spend": "$795",
+		"feburary_spend": "$77",
+		"march_spend": "$961"
+	},
+	{
+		"customer_name": "Winter Jefferson",
+		"customer_email": "congue@outlook.net",
+		"janurary_spend": "$159",
+		"feburary_spend": "$893",
+		"march_spend": "$255"
+	},
+	{
+		"customer_name": "Marcia Mcmillan",
+		"customer_email": "adipiscing.non@protonmail.org",
+		"janurary_spend": "$267",
+		"feburary_spend": "$392",
+		"march_spend": "$471"
+	},
+	{
+		"customer_name": "Curran Solomon",
+		"customer_email": "donec.felis@outlook.edu",
+		"janurary_spend": "$8",
+		"feburary_spend": "$55",
+		"march_spend": "$600"
+	},
+	{
+		"customer_name": "Katell Bonner",
+		"customer_email": "tincidunt.pede@aol.net",
+		"janurary_spend": "$835",
+		"feburary_spend": "$480",
+		"march_spend": "$810"
+	},
+	{
+		"customer_name": "Kyle Hamilton",
+		"customer_email": "ante.blandit.viverra@google.net",
+		"janurary_spend": "$58",
+		"feburary_spend": "$245",
+		"march_spend": "$880"
+	},
+	{
+		"customer_name": "Cleo Neal",
+		"customer_email": "malesuada.ut@yahoo.net",
+		"janurary_spend": "$737",
+		"feburary_spend": "$996",
+		"march_spend": "$971"
+	},
+	{
+		"customer_name": "Axel Cannon",
+		"customer_email": "metus@yahoo.org",
+		"janurary_spend": "$852",
+		"feburary_spend": "$520",
+		"march_spend": "$259"
+	},
+	{
+		"customer_name": "Carolyn Zimmerman",
+		"customer_email": "leo@icloud.couk",
+		"janurary_spend": "$771",
+		"feburary_spend": "$86",
+		"march_spend": "$465"
+	},
+	{
+		"customer_name": "Virginia Barrett",
+		"customer_email": "nam@google.edu",
+		"janurary_spend": "$206",
+		"feburary_spend": "$677",
+		"march_spend": "$993"
+	},
+	{
+		"customer_name": "Kasimir Hale",
+		"customer_email": "sollicitudin.a@icloud.net",
+		"janurary_spend": "$412",
+		"feburary_spend": "$210",
+		"march_spend": "$864"
+	},
+	{
+		"customer_name": "Angela Salinas",
+		"customer_email": "eu.tempor@protonmail.couk",
+		"janurary_spend": "$139",
+		"feburary_spend": "$699",
+		"march_spend": "$287"
+	},
+	{
+		"customer_name": "Yuri Joseph",
+		"customer_email": "turpis.non@google.ca",
+		"janurary_spend": "$666",
+		"feburary_spend": "$280",
+		"march_spend": "$477"
+	},
+	{
+		"customer_name": "Micah Vaughn",
+		"customer_email": "dictum.eleifend@protonmail.net",
+		"janurary_spend": "$253",
+		"feburary_spend": "$967",
+		"march_spend": "$85"
+	},
+	{
+		"customer_name": "Russell Knowles",
+		"customer_email": "fermentum@hotmail.couk",
+		"janurary_spend": "$604",
+		"feburary_spend": "$986",
+		"march_spend": "$67"
+	},
+	{
+		"customer_name": "Luke Singleton",
+		"customer_email": "proin.dolor@yahoo.org",
+		"janurary_spend": "$75",
+		"feburary_spend": "$33",
+		"march_spend": "$585"
+	},
+	{
+		"customer_name": "Candace Luna",
+		"customer_email": "auctor.vitae@icloud.couk",
+		"janurary_spend": "$325",
+		"feburary_spend": "$88",
+		"march_spend": "$209"
+	},
+	{
+		"customer_name": "Harding Jefferson",
+		"customer_email": "leo@icloud.edu",
+		"janurary_spend": "$173",
+		"feburary_spend": "$715",
+		"march_spend": "$709"
+	},
+	{
+		"customer_name": "Berk Acevedo",
+		"customer_email": "congue.in@hotmail.couk",
+		"janurary_spend": "$593",
+		"feburary_spend": "$114",
+		"march_spend": "$940"
+	},
+	{
+		"customer_name": "Curran Dennis",
+		"customer_email": "ultrices@icloud.com",
+		"janurary_spend": "$95",
+		"feburary_spend": "$814",
+		"march_spend": "$737"
+	}
+]
